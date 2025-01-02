@@ -1,5 +1,8 @@
 # Healthcare Assistant Chatbot
 
+<img width="750" alt="Screenshot 2025-01-02 at 19 11 32" src="https://github.com/user-attachments/assets/40d05b28-7b1e-48de-8758-b275f837916d" />
+
+
 A smart NLP-powered healthcare chatbot designed to provide intelligent advice on common illnesses, offering users accessible medical guidance and home remedy suggestions.
 
 ## 🚨 Important Disclaimer
