@@ -1,0 +1,9 @@
+[project]
+name = "repl-nix-smarthealthassistant"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "spacy>=3.8.3",
+    "streamlit>=1.41.1",
+]
